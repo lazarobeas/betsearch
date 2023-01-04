@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Projects at Betsearch</title>
+</head>
+<body>
+{% extends 'main.html' %}
+
+{% block content %}
+
+<p> Hello you are on the {{page}} page.</p>
+
+{% if number > 10 %}
+   <p>Number is greater than 10</p>
+{% elif number == 10%}
+   <p>This number equals 10</p>
+{% else %}
+   <p>Number is less than 10</p>
+{% endif %}
+
+<h1>This is the projects template. </h1>
+<hr>
+
+    <h1>Projects</h1>
+</body>
+
+{% endblock content %}
+
+</html>
