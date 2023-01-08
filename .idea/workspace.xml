@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -46,6 +46,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="betsearch.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -76,7 +77,11 @@
       <workItem from="1671599824481" duration="9864000" />
       <workItem from="1671836738342" duration="4839000" />
       <workItem from="1672786549671" duration="2381000" />
-      <workItem from="1672794458414" duration="1182000" />
+      <workItem from="1672794458414" duration="4338000" />
+      <workItem from="1672820699285" duration="2081000" />
+      <workItem from="1673042591336" duration="5056000" />
+      <workItem from="1673080108610" duration="4140000" />
+      <workItem from="1673122447796" duration="2161000" />
     </task>
     <servers />
   </component>
