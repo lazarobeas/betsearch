@@ -1,5 +1,4 @@
 from django.shortcuts import render, redirect
-
 from django.http import HttpResponse
 from .models import Project
 from .forms import ProjectForm
@@ -18,7 +17,7 @@ def createProject(request):
     form = ProjectForm()
     context = {'form': form}
     if request.method == 'POST':
-        form = ProjectForm(request.POST)
+        form = ProjectForm(request.POST, request.FILES)
         if form.is_valid():
             form.save()
             return redirect('projects')
@@ -31,7 +30,7 @@ def updateProject(request, pk): #primary key is to track in the form
     context = {'form': form}
 
     if request.method == 'POST':
-        form = ProjectForm(request.POST, instance=project) #shows that the data is going to be sent to the instance and then saves it
+        form = ProjectForm(request.POST, request.Files, instance=project) #shows that the data is going to be sent to the instance and then saves it
         if form.is_valid():
             form.save()
             return redirect('projects')
