@@ -5,11 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc5ba8be-01bd-45ed-a7f8-9fc727b34eae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/users/templates/users/profiles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/betsearch/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/betsearch/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/betsearch/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/betsearch/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/projects/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/templates/projects/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/templates/projects/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/templates/users/profiles.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/profiles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,7 +116,8 @@
       <workItem from="1674390739608" duration="3739000" />
       <workItem from="1674444750083" duration="596000" />
       <workItem from="1674448853710" duration="25000" />
-      <workItem from="1674793967567" duration="551000" />
+      <workItem from="1674793967567" duration="1211000" />
+      <workItem from="1674840352166" duration="6193000" />
     </task>
     <servers />
   </component>
