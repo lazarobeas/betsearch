@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fc5ba8be-01bd-45ed-a7f8-9fc727b34eae" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/users/signals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/templates/users/login-register.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/users/templates/users/user-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/users/templates/users/user-profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/navbar.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/users/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +43,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Lazaro B/Documents/GitHub/betsearch&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Lazaro B/Documents/GitHub/ExperimentMSE",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="betsearch" type="Python.DjangoServer" factoryName="Django server">
       <module name="betsearch" />
@@ -122,7 +129,22 @@
       <workItem from="1675580192162" duration="7081000" />
       <workItem from="1675805415377" duration="734000" />
       <workItem from="1676354975544" duration="594000" />
-      <workItem from="1676781596561" duration="8702000" />
+      <workItem from="1676781596561" duration="10147000" />
+      <workItem from="1677010598296" duration="102000" />
+      <workItem from="1677010939448" duration="445000" />
+      <workItem from="1677036896375" duration="2766000" />
+      <workItem from="1677307632385" duration="473000" />
+      <workItem from="1678396738572" duration="2073000" />
+      <workItem from="1678478588832" duration="1184000" />
+      <workItem from="1680630926025" duration="106000" />
+      <workItem from="1681439025281" duration="710000" />
+      <workItem from="1681452812394" duration="50000" />
+      <workItem from="1681496396109" duration="632000" />
+      <workItem from="1681497978396" duration="84000" />
+      <workItem from="1681511959010" duration="632000" />
+      <workItem from="1681521165891" duration="1410000" />
+      <workItem from="1682478684933" duration="4619000" />
+      <workItem from="1682492695372" duration="2057000" />
     </task>
     <servers />
   </component>
